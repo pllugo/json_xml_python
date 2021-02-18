@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Pedro",
+        "apellido": "Lugo",
+        "DNI": 95742846,
+        "prendas": [
+            {
+                "zapatillas": 2,
+                "remeras": 15,
+                "gorras": 4
+            }
+        ]
+    }
+]

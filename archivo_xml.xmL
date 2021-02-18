@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Datos>
+	<Nombre>Pedro</Nombre>
+	<Apellido>Lugo</Apellido>
+	<DNI>167855552</DNI>
+	<Prendas>
+		Prendas
+		<tipo>zapatos</tipo>
+		<Cantidad>5</Cantidad>
+		<tipo>Remeras</tipo>
+		<Cantidad>15</Cantidad>
+	</Prendas>
+</Datos>
